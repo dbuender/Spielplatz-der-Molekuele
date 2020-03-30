@@ -5,7 +5,7 @@ Das Projekt ist letzendlich eignehändig die Grenzen, einer Realgassimulation, i
 Hierzu soll zu beginn ein Geschlossenes Sytem erschaffen werden, welches Moelkühle mit gewsisen gechwindgkeiten und Beschleungigungen als Startbedingung enthält.
 Hierzu werden dann nach unc nach Wechselwirkungen hinzugefügt.
 
-Wechselweirkungen 
+Geplante Wechselweirkungen 
 - elastischer stoss der Teilchen mit Sytemgrenze
 - elastischer stoss der Teilchen mit anderem Teilchen
 - Lennard Jones Potentzial 
